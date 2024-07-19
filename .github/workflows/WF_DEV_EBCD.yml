@@ -1,4 +1,4 @@
-name: Build en DEV_JBCR
+name: Build en DEV_EBCD
 
 on:
   push:
